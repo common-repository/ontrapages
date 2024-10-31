@@ -1,0 +1,508 @@
+@media screen and (max-width: 780px) {
+
+    .op-as-small {
+        max-width: 100%!important;
+    }
+
+    .op-admin-settings {
+        padding-right: 10px!important;
+    }
+
+    .op-odetail {
+        width: 100%!important;
+    }
+
+}
+
+
+@media screen and (max-width: 1200px) {
+
+    .op-odetail {
+        width: 100%!important;
+        margin-bottom: 1.333%!important;
+    }
+
+}
+
+
+@media screen and (max-width: 1440px) {
+
+    .opm-items li {
+        width: 33%;
+        margin-right: 1.33%;
+    }
+
+    .opm-items li:nth-child(4n) {
+        margin-right: 1.33%;
+    }
+
+    .opm-items li:nth-child(3n) {
+        margin-right: 0px;
+    }
+
+}
+
+
+.opm-opselect-items ul {
+    width: 100%;
+    margin: 10px 0px 0px;
+    padding: 0px;
+}
+
+.opm-items li {
+    display: inline-block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    list-style: none;
+    width: 24%;
+    border: 1px solid lightgrey;
+    margin-bottom: 10px;
+    margin-right: 1%;
+    text-align: center;
+    padding: 1px;
+}
+
+.opm-items li img {
+    width: 100%;
+}
+
+.opm-items li:nth-child(4n) {
+    margin-right: 0px;
+}
+
+.op-as-title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 12.5pt;
+    color: #102A40;
+    border-radius: 2px;
+}
+
+.op-as-options {
+    background-color: white;
+    border: 1px solid rgb(210, 210, 210);
+    box-shadow: 0px 2px 10px rgb(194, 194, 194);
+    margin-bottom: 20px;
+    border-radius: 2px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    width: 100%;
+}
+
+.op-as-option label {
+    font-weight: bold;
+}
+
+.op-as-option {
+    margin-bottom: 10px;
+}
+
+.op-as-option:last-child {
+    margin-bottom: 0px;
+}
+
+.op-as-options-title {
+    font-size: 12.5pt;
+    padding: 11px 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.op-as-option input {
+    width: 100%;
+    padding: 8px;
+    font-size: 10pt;
+}
+
+.op-as-options-description {
+    margin-bottom: 15px;
+}
+
+.op-as-small {
+    max-width: 25%;
+    min-width: 300px;
+}
+
+.op-admin-settings {
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.op-as-title-actions {
+    text-align: right;
+    width: 25%;
+}
+
+.op-as-title > div {
+    display: inline-block;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    margin: 0px;
+}
+
+.op-as-submit input {
+    background-color: #FFFFFF;
+    background-image: none;
+    border: none;
+    color: rgb(21, 165, 210);
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+    font-size: 11pt;
+    text-align: right;
+    padding: 0px 0px 0px 10px;
+    width: auto;
+}
+
+.op-admin-settings button {
+    background-image: none;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+    font-size: 11pt;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: white;
+    border-radius: 2px;
+}
+
+.op-as-submit {
+    text-align: right;
+}
+
+.op-center {
+    margin: 0px auto;
+}
+
+.op-as-submit input:hover {
+    color: #F0A247;
+}
+
+.op-as-options-wrapper {
+    padding: 20px;
+}
+
+.op-green-bg {
+    background-color: #92B866;
+}
+
+.op-red-bg {
+    background-color: #D63547;
+}
+
+.op-blue-bg {
+    background-color: rgb(21, 165, 210);
+}
+
+.op-as-title-items > div {
+    display: inline-block;
+}
+
+.op-as-logo-title {
+    margin-top: -28px;
+}
+
+button.op-green-bg:hover {
+    background-color: rgb(125, 157, 88);
+}
+
+.op-as-logo {
+    max-width: 350px;
+}
+
+.op-as-logo img {
+    width: 100%;
+}
+
+#opMetabox .ui-sortable-handle {
+    background-color: rgb(21, 165, 210);
+    color: white;
+    font-size: 12.5pt;
+}
+
+.opm-opselect-items select {
+    padding: 8px;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    border-color: #DFDFDF;
+    background-color: #F3F3F3;
+}
+
+#opMetabox .handlediv {
+    color: white;
+}
+
+#opMetabox .inside {
+    padding: 20px;
+    margin: 0px;
+}
+
+.op-error-message {
+    padding: 10px!important;
+}
+
+.op-error-message a {
+    font-weight: bold;
+}
+
+.op-ontrapage-details {
+    margin-top: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.op-odetail-name {
+    font-size: 12pt;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.op-odetail {
+    display: inline-block;
+    width: 24%;
+    float: left;
+    background-color: #fafafa;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #DDDDDD;
+    margin-right: 1.333%;
+    min-width: 140px;
+    margin-bottom: 0px;
+}
+
+#opMetabox .inside div {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+
+.op-odetails-lp-stat-title {
+    font-size: 13pt;
+    /* font-weight: bold; */
+    margin-bottom: 10px;
+    color: #15A5D2;
+}
+
+.op-odetail:last-child {
+    margin-right: 0px;
+}
+
+.op-odetails-lp-views, .op-odetails-lp-conversion {
+    font-size: 10pt;
+}
+
+.op-ontraform-settings {
+    /* margin-top: 20px; */
+}
+
+.op-as-options-note {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin-top: 7px;
+}
+
+.op-as-options-important {
+    margin-top: 10px;
+    background-color: #D63547;
+    color: white;
+    padding: 10px;
+}
+
+.op-as-options-important a {
+    color: white;
+    font-weight: bold;
+}
+
+.op-of-dtype {
+    display: inline-block;
+    border: 1px solid #e9e9e9;
+    padding: 0px;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    border: 3px solid transparent;
+    box-shadow: 0px 0px 5px rgba(199, 199, 199, 0.6);
+}
+
+.op-of-dtype:hover {
+    border: 3px solid #C56519;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+.op-of-dtype-name {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0px 0px 6px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.op-of-display-type {
+    padding: 10px 15px;
+    background-color: #f3f3f3;
+    border: 1px solid #dfdfdf;
+}
+
+.op-of-setting-title {
+    font-size: 11pt;
+    margin-bottom: 7px;
+    font-weight: bold;
+}
+
+.op-of-appearance {
+    background-color: #F3F3F3;
+    border: 1px solid #DFDFDF;
+    padding: 15px;
+}
+
+.op-of-appearance-option {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.op-of-ts-title {
+    width: 100%;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 9pt;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+.op-of-appearance-option:last-child {
+    margin-bottom: 5px;
+}
+
+.op-of-ts-option input {
+    font-size: 8pt;
+    max-width: 53px;
+}
+
+.op-of-ts-option {
+    margin-bottom: 4px;
+}
+
+.op-of-ts-option input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.op-of-dtype.selected {
+    border: 3px solid #C56519;
+}
+
+.op-of-pposition {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.op-of-pop-position .op-of-ts-title {
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+
+.op-of-pp-tc {
+    background-position: -24px;
+}
+
+.op-of-pp-tr {
+    background-position: -48px;
+}
+
+.op-of-pp-ml {
+    background-position: -72px;
+}
+
+.op-of-pp-mc {
+    background-position: -96px;
+}
+
+.op-of-pp-mr {
+    background-position: -120px;
+}
+
+.op-of-pp-bl {
+    background-position: -144px;
+}
+
+.op-of-pp-bc {
+    background-position: -168px;
+}
+
+.op-of-pp-br {
+    background-position: -192px;
+}
+
+.op-of-pp-tl:hover,
+.op-of-pp-tl.selected {
+    background-position: 214px;
+}
+
+.op-of-pp-tc:hover,
+.op-of-pp-tc.selected {
+    background-position: 190px;
+}
+
+.op-of-pp-tr:hover,
+.op-of-pp-tr.selected {
+    background-position: 166px;
+}
+
+.op-of-pp-ml:hover,
+.op-of-pp-ml.selected {
+    background-position: 142px;
+}
+
+.op-of-pp-mc:hover,
+.op-of-pp-mc.selected {
+    background-position: 118px;
+}
+
+.op-of-pp-mr:hover,
+.op-of-pp-mr.selected {
+    background-position: 94px;
+}
+
+.op-of-pp-bl:hover,
+.op-of-pp-bl.selected {
+    background-position: 70px;
+}
+
+.op-of-pp-bc:hover,
+.op-of-pp-bc.selected {
+    background-position: 46px;
+}
+
+.op-of-pp-br:hover,
+.op-of-pp-br.selected {
+    background-position: 22px;
+}
+
+.op-of-automatic-settings {
+    margin-top: 20px;
+}
+
+.op-of-embedded-settings {
+    margin-top: 20px;
+}
+
+.op-of-link-settings {
+    margin-top: 20px;
+}
+
+.op-of-form-select {
+    margin-top: 20px;
+}
